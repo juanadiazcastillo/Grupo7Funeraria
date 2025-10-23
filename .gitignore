@@ -1,0 +1,8 @@
+*
+!.gitignore
+!src/components/FormularioServicios.js
+!src/components/FormularioModelo.js
+!src/components/TablaServicios.js
+!src/components/TablaModelo.js
+!src/views/Servicio.js
+!src/views/Modelo.js
